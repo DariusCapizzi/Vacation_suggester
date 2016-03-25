@@ -16,6 +16,10 @@ button {
   margin: 85px;
 }
 
+.anywhere_image{
+  display: none;
+}
+
 .grave_image {
   display: none;
 }
@@ -25,5 +29,9 @@ button {
 }
 
 .land_image{
+  display: none;
+}
+
+.beach_image{
   display: none;
 }
