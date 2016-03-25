@@ -1,3 +1,28 @@
 div {
   text-align: center;
+  font-family: fantasy;
+}
+
+img {
+  width: 500px;
+}
+
+button {
+  font-family: cursive;
+}
+
+.location_images h1{
+  margin: 85px;
+}
+
+.grave_image {
+  display: none;
+}
+
+.sea_image {
+  display: none;
+}
+
+.land_image{
+  display: none;
 }
